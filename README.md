@@ -2,6 +2,8 @@
 
 Tutorial: https://www.youtube.com/watch?v=VqP1ECc_j4M
 
+![alt text](https://github.com/aton-py/dropbox-react-clone/blob/main/DROPBOX.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
