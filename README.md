@@ -1,3 +1,7 @@
+# Dropbox UI Clone - React.js by Aton Bertini Dornfeld
+
+Tutorial: https://www.youtube.com/watch?v=VqP1ECc_j4M
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
