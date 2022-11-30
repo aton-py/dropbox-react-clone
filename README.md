@@ -1,6 +1,4 @@
-# Dropbox UI Clone - React.js by Aton Bertini Dornfeld
-
-Tutorial: https://www.youtube.com/watch?v=VqP1ECc_j4M
+# ⚡ Dropbox UI Clone using React, Typescript and Styled-components ⚡
 
 ![alt text](https://github.com/aton-py/dropbox-react-clone/blob/main/DROPBOX.png)
 
